@@ -11,7 +11,7 @@ email: team@betar.io
 description: > # this means to ignore newlines until "baseurl:"
   This is Betar blog, where we are going to share news, tips and more about Betar and beta testing
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://betarteam.github.io/betar-blog/" # the base hostname & protocol for your site
+url: "http://blog.betar.io/" # the base hostname & protocol for your site
 twitter_username: Betar_io
 github_username: betarteam 
 
