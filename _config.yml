@@ -9,7 +9,7 @@
 title: Betar Blog 
 email: team@betar.io 
 description: > # this means to ignore newlines until "baseurl:"
-  This is Betar blog, where we are going to share news, tips and more about Betar and beta testing
+  Betar Team Blog, where we are sharing platform updates, new games, team updates and more about Betar and beta testing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.betar.io/" # the base hostname & protocol for your site
 twitter_username: Betar_io
